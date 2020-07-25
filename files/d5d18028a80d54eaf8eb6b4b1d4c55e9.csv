@@ -1,0 +1,6 @@
+﻿Name,Code,Barcode Symbology,Brand,Category Code,Unit Code,Sale Unit Code, Purchase Unit Code,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Image,Subcategory Code,Product Variants Separated by |,Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,Location,
+testing,15909299,code128,,ខោរក្មេងស្រី,គូរ,,,3,5,0,,Inclusive,no_image.png,,,,,,,,,7,Location B
+tests,21089365,code128,,ខោរក្មេងស្រី,គូរ,,,3,5,0,,Inclusive,no_image.png,,,,,,,,,8,Location A
+Adidas EX,42528321,code128,,ខោរក្មេងស្រី,unit,,,1.5,3,0,,Inclusive,no_image.png,,,,,,,,,-4,Location B
+test,61296271,code128,,ខោរក្មេងស្រី,គូរ,,,3,5,0,,Inclusive,no_image.png,,,,,,,,,8,Location A
+admin,70544162,code128,,ឈុត,គូរ,,,0,0,0,,Inclusive,no_image.png,,,,,,,,,-2,Location A

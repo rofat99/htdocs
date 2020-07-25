@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'battambangregular';
+    src: url('../fonts/battambang-regular-webfont.woff2') format('woff2'),
+         url('../fonts/battambang-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

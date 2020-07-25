@@ -1,0 +1,19 @@
+==================== Date 19-06-2020 ===========================
+CREATE TABLE `sma_location` (
+`id`  int(11) NOT NULL AUTO_INCREMENT ,
+`name`  varchar(255) NULL ,
+PRIMARY KEY (`id`)
+)
+;
+=======================
+ALTER TABLE `sma_location`
+ADD COLUMN `code`  varchar(255) NULL AFTER `name`,
+ADD COLUMN `slug`  varchar(255) NULL AFTER `code`;
+
+===================================
+
+ALTER TABLE `sma_products`
+ADD COLUMN `location`  int(11) NULL DEFAULT NULL AFTER `weight`;
+
+
+
