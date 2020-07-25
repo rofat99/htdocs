@@ -690,7 +690,7 @@
                                                 <i class="fa fa-wrench"></i><span class="text"> <?= lang('units'); ?></span>
                                             </a>
                                         </li>
-                                        <li id="system_settings_brands" class="hide">
+                                        <li id="system_settings_brands" class="">
                                             <a href="<?= admin_url('system_settings/brands') ?>">
                                                 <i class="fa fa-th-list"></i><span class="text"> <?= lang('brands'); ?></span>
                                             </a>
